@@ -45,3 +45,21 @@
 - [x]	Designing user-centric reports with empathy in mind.
 - [x]	Optimization of report generation through meticulous fine-tuning.
 - [x]	Developing a systematic approach to devising a report building plan.
+
+## major concepts I learnt:
+*ETL: Extract, Transform, Load.
+-it refers to the process of extracting data from various sources
+-transforming the data to fit the desired data model or format
+-loading the data into a target data store or destination
+
+*Power Query: transform and connects data from different sources, such as databases and spreadsheets, into a format suitable for analysis.
+
+*Data cleaning in power query: involves the process of identifying and correcting inaccuracies, inconsistencies, and errors in data ensure that it accurate and usable for analysis and reporting.
+
+*Data modelling: involves the process of connecting different datasets together by establishing the relationship between them.
+-star schema: is a data modelling technique that arranges data into a central fact table, surrounded by several dimension tables.
+
+*Power pivot: it allows users to create relationships between tables and perform advanced calculations with large amounts of data.
+
+*DAX functions:
+FORMAT(), MONTH(), ROUNDUP(), CALCULATE(), SUMX().many more....
